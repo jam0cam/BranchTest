@@ -1,0 +1,8 @@
+.gradle*
+.idea*
+*.iml
+build/intermediates/dex-cache/cache.xml
+gradle/wrapper/gradle-wrapper.jar
+gradle.properties
+gradlew
+gradlew.bat

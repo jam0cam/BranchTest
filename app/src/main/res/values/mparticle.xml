@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="mp_key">1431d1d501de9342b543d573fdef3dc5</string>
+    <string name="mp_secret">nJXj8I7AnFA-fPGUWedUQgDcOguzIQL5i-YUA6mk3O47gDgGicy2v1PHKsVadUW1</string>
+    <bool name="mp_enableAutoTracking">true</bool>
+    <bool name="mp_enableAutoScreenTracking">true</bool>
+    <bool name="mp_enableNetworkPerformanceMeasurement">false</bool>
+    <bool name="mp_reportUncaughtExceptions">false</bool>
+</resources>
